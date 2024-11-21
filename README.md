@@ -1,2 +1,3 @@
 # php-sample
-A sample PHP project
+
+This is a simple PHP project intended for personal learning.
